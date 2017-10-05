@@ -34,5 +34,5 @@ univariate_ols <- function(y,x) {
            se_alpha=se_alpha,
            se_beta=se_beta)
 }
-
+ #i love marwin
 
